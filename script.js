@@ -99,7 +99,6 @@ function add(e) {
       <div class="bo8">
           <p class="p"> ${iteam.phone} </p>
       </div>
-
     </div>`;
     }
   });
